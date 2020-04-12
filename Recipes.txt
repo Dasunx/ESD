@@ -3,3 +3,8 @@ Welcome to the Kitchen!
 Rice
 String hoppers
 Chicken curry
+
+Beans
+Pizza
+
+Thank you :)
